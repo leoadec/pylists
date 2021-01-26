@@ -1,5 +1,3 @@
-"""Parser for markdown lists."""
-
 from copy import deepcopy
 
 from pylists.lists import TodoList
